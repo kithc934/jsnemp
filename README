@@ -1,0 +1,53 @@
+# ⚡ jsnemp
+
+> **A tiny JavaScript micro-framework with zero fear.**  
+> Minimal core. Maximum control. No nonsense.
+
+---
+
+## 🚀 What is jsnemp?
+
+**jsnemp** is a JavaScript micro-framework built for developers who want to stay close to the metal without sacrificing structure.
+
+It gives you just enough framework to move fast —  
+and gets out of your way when you don’t need it.
+
+No bloated abstractions.  
+No hidden behavior.  
+No surprises.
+
+---
+
+## 🧠 Philosophy
+
+jsnemp is built around a few uncompromising ideas:
+
+- **Minimalism is power**
+- **Explicit code beats magic**
+- **You own the control flow**
+- **Performance matters**
+- **Readability is a feature**
+
+If you like knowing *exactly* what your code is doing, you’ll feel at home.
+
+---
+
+## ✨ Features
+
+- ⚡ Ultra-lightweight footprint  
+- 🧩 Fully modular design  
+- 🛠 Zero unnecessary dependencies  
+- 📦 Easy to extend, easy to strip down  
+- 🧠 Predictable behavior  
+- 🚀 Fast startup and execution  
+
+---
+
+## 📦 Installation
+
+```bash
+npm install jsnemp
+# or
+yarn add jsnemp
+# or
+pnpm add jsnemp
