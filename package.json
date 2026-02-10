@@ -1,0 +1,41 @@
+{
+  "name": "jsnemp",
+  "version": "0.1.0",
+  "description": "Mini framework estilo React hecho en el barrio 🔥",
+  "type": "module",
+  "private": false,
+
+  "exports": {
+    ".": {
+      "import": "./packages/core/dist/index.js"
+    },
+    "./vite": {
+      "import": "./lib/vite/index.js"
+    }
+  },
+
+  "files": [
+    "packages/core/dist",
+    "lib/vite"
+  ],
+
+  "scripts": {
+    "build": "npm run build:core",
+    "build:core": "cd packages/core && npm run build"
+  },
+
+  "keywords": [
+    "framework",
+    "vdom",
+    "react-like",
+    "hooks",
+    "router",
+    "vite",
+    "plugin"
+  ],
+
+  "author": "JSNEMP",
+  "license": "MIT"
+}
+
+
